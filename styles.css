@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+}
+.box1 {
+  margin-left: 100px;
+  height: 400px;
+  width: 300px;
+  background-color: ;
+  border:solid 3px white;
+  color: #fff;
+}
+.box2 {
+  margin-left: 550px;
+  margin-top:  -400px;
+   height: 400px;
+  width: 300px;
+  background-color: ;
+  border:solid 3px white;
+  color: #fff;
+}
+.box3 {
+  margin-top:  -400px;
+  margin-left: 1000px;
+   height: 400px;
+  width: 300px;
+  background-color: ;
+  border:solid 3px white;
+  color: #fff;
+}
